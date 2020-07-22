@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cooking</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="favorites">Favoritos</string>
+    <string name="search">Recetas</string>
+
+    <string name="reciplease">Recetario</string>
+<string name="fridge_label">Que está en tu refrigerador ?</string>
+    <string name="ingredient_placeholder">Limón, Queso, Pollo...</string>
+    <string name="add">Agregar</string>
+    <string name="search_recipes">Buscar recetas</string>
+    <string name="your_ingredients">Sus Ingredientes :</string>
+    <string name="clear">Borrar</string>
+    <string name="directions">Get Directions</string>
+    <string name="ingredients">Ingredientes :</string>
+    <string name="recipe_added">"Recetas agregadas a favoritos"</string>
+    <string name="recipe_deleted">"esta receta fue eliminada de favoritos"</string>
+
+</resources>
